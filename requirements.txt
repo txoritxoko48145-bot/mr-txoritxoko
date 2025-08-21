@@ -1,4 +1,4 @@
-google-generativeai
-Pillow
-python-dotenv
-telegram
+python-telegram-bot[all]==20.7
+google-generativeai>=1.0.0
+Pillow>=9.0.0
+python-dotenv>=1.0.0
